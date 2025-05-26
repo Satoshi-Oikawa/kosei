@@ -1,0 +1,43 @@
+#my-head {
+	border: 0px ;
+	padding-top: 12px;
+	padding-left: 12px;
+	padding-bottom: 12pt;
+	white-space: nowrap;
+}
+
+td.my-head {
+    border: 1px solid #AAFFAA ;
+	background: #CCFFCC ;
+	padding: 10px;
+	white-space: nowrap;
+}
+
+#my-td {
+    border: 0px;
+	padding-top: 4pt;
+	padding-bottom: 4pt;
+	padding-left: 24px;
+	white-space: nowrap;
+}
+
+#my-td2 {
+    border: 0px;
+	padding-top: 16pt;
+	padding-bottom: 4pt;
+	padding-left: 24px;
+	white-space: nowrap;
+}
+
+td.my-td {
+    border: 1px solid #AAFFAA ;
+	padding: 10px;
+	white-space: nowrap;
+}
+
+#attention1 {
+	color: red ;
+	font: bold ;
+	text-decoration: underline ;
+	white-space: nowrap;
+}
